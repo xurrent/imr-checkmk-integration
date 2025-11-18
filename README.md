@@ -1,0 +1,1 @@
+# imr-checkmk-integration
